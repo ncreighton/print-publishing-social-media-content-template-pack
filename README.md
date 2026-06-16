@@ -1,2 +1,25 @@
-# print-publishing-social-media-content-template-pack
-30 days of post templates, stories, reels scripts, and engagement prompts for Print &amp; Publishing. Never run out of content ideas.
+# Print & Publishing Social Media Content Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w6oH8v52k42hiavOd0q2Q)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w6oH8v52k42hiavOd0q2Q)
+
